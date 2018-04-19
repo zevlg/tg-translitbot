@@ -1,1 +1,2 @@
+python-telegram-bot>=10.0.0
 cyrtranslit>=0.4
